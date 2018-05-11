@@ -11,7 +11,9 @@ h1, h2, p{
 td {
   color:white;
   padding: 20px;
-  border: 5px solid white;
+  border: 5px;
+  border-style: solid;
+  
 
 }
 
