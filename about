@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+  <body>
+    <div class="navigationBar">
+      <table class="capitalized">
+        <tr>
+          <td>MAIN</td>
+          <td><u>BIO</u></td>
+          <td>PROJECTS</td>
+          <td>CV</td>
+        </tr>
+      </table>
+    </div>
+    <div class="mainImage">
+     <p>Picture of Sam!!!!!!</p>
+    </div>
+    
+    <div class="welcome">
+      <h1>About Me</h1>
+      <h2>Sam Parrett</h2>
+      
+    </div>
+    
+    <div class="mainContent">
+      <p><p>I went to Miami University Interactive Media Program. I enjoy martial arts strategy gaming, cheese and meats. I draw, animate 
+      and design games too. I try hard to make everything as cool as possible</p>
+      <br><br>
+    </div>
+  </body>
+</html>
