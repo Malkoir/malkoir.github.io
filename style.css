@@ -1,5 +1,5 @@
 body {
-  background-color:blue;
+  background-color:darkgray;
   
   
 }
@@ -21,7 +21,7 @@ td {
   color:white;
   padding: 20px;
   border-right: 5px solid white;
-  background-color:black;
+  background-color:darkblue;
 }
 
 td:hover{
